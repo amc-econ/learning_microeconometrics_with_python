@@ -14,22 +14,16 @@ Learning Microeconomics with Python
         :alt: Documentation Status
 
 
-
-
-Python code for Christopher Adam's book Learning Microeconomics with R
-
+This repository contains Python code using scipy, numpy, statsmodels and Scikit-Learn for a selection of computations, statistical tables, and figures from the book 'Learning Microeconomics with R' by Christopher P. Adams (2020).
 
 * Free software: MIT license
 * Documentation: https://learning-microeconomics-with-python.readthedocs.io.
 
 
-Features
---------
-
-* TODO
-
-Credits
+References
 -------
+
+Christopher P. Adams (2020). Learning Microeconomics with R, Chapman and Hall/CRC, ISBN 9780367255381. https://sites.google.com/view/microeconometricswithr
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
