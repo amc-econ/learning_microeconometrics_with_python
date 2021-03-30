@@ -103,3 +103,5 @@ ENV/
 
 # IDE settings
 .vscode/
+notebooks R/r_chap1_ordinary_least_squares.ipynb
+notebooks R/r_chap2_multiple_regression.ipynb
