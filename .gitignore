@@ -105,3 +105,10 @@ ENV/
 .vscode/
 notebooks R/r_chap1_ordinary_least_squares.ipynb
 notebooks R/r_chap2_multiple_regression.ipynb
+
+# large data files (14 to 39 MB each), not in the repository
+# they are on the web site of the book and on nhts.ornl.gov
+data/hhpub.csv
+data/dominicks.csv
+data/NFLQ1.csv
+data/seedanalysis_011204_080404.dta
