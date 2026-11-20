@@ -16,9 +16,6 @@ Use of AI
 
 * Each of these notebooks was run from top to bottom, and its results were compared with the results of the book. When a result is not the same as in the book, a short note in the notebook says why.
 
-* The matrix inverse in chapter 2 (sections 2.3.2, 2.6.3 and 2.6.5) was corrected with the same assistant.
-
-
 Data
 ----
 
